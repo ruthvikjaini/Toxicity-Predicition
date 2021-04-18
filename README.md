@@ -19,7 +19,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 ## Zip Folder consists of:
 - Source Code - XGB_FinalSub.ipynb.<br>
-- raining Dataset -Train.csv.<br>
+- Training Dataset -Train.csv.<br>
 - Testing Dataset -Test.csv.<br>
 - Feature Matrix - femat.csv.<br>
 - Project Report - Final_Report.pdf.<br>
